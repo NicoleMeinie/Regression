@@ -26,7 +26,7 @@ Link to project Trello board: https://trello.com/invite/b/Jvt3ICOf/6936f63598f23
 ## Authors
 - Rohini Jagath
 - Nicole Meinie
-- Condindence Ledwaba
+- Confidence Ledwaba
 - Pilasande Pakkies
 
 ## Contact Details 
