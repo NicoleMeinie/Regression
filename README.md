@@ -28,6 +28,6 @@ Currently ranked 15/60 on the public Zindi leaderboard
 - Philasande Pakkies
 
 ## Contact Details 
-nicole.meinie@gmail.com
+If you would like to contribute to our repository please contact nicole.meinie@gmail.com
 
 ![Heading](https://cdn1.vc4a.com/media/2015/12/Sendy-delivery-900x322.jpg)
