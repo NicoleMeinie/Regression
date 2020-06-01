@@ -24,8 +24,8 @@ Currently ranked 15/60 on the public Zindi leaderboard
 ## Authors
 - Rohini Jagath
 - Nicole Meinie
-- Condindence Labwba
-- Philasande Pakkies
+- Condindence Ledwaba
+- Pilasande Pakkies
 
 ## Contact Details 
 If you would like to contribute to our repository please contact nicole.meinie@gmail.com
