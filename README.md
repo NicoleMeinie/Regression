@@ -8,4 +8,23 @@ This challenge aims to predict the estimated time of delivery of orders, from th
 
 The solution will help Sendy enhance customer communication and improve the reliability of its service; which will ultimately improve customer experience. In addition, the solution will enable Sendy to realise cost savings, and ultimately reduce the cost of doing business, through improved resource management and planning for order scheduling.
 
+
+## Prerequisits
+1. Python
+2. Scikit Learn
+3. google colabitory 
+4. Sendy data
+
+## Project status 
+Currently ranked 15/60 on the public Zindi leaderboard
+
+## Authors
+- Rohini Jagath
+- Nicole Meinie
+- Condindence Labwba
+- Philasande Pakkies
+
+## Contact
+nicole.meinie@gmail.com
+
 ![Heading](https://cdn1.vc4a.com/media/2015/12/Sendy-delivery-900x322.jpg)
