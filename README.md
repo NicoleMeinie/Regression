@@ -19,7 +19,8 @@ The solution will help Sendy enhance customer communication and improve the reli
 - Submission
 
 ## Project Status 
-Currently ranked 15/60 on the public Zindi leaderboard
+**Currently ranked 15/60 on the public Zindi leaderboard**
+
 Link to project Trello board: https://trello.com/invite/b/Jvt3ICOf/6936f63598f23bdfa917f7bf23176ceb/regression-predict
 
 ## Authors
