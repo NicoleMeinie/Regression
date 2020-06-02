@@ -8,7 +8,7 @@ link to the competition: https://zindi.africa/hackathons/edsa-sendy-logistics-ch
 
 ## Motivation
 
-The solution will help Sendy improve customer communication and the reliability of its service. In addition, the solution will allow Sendy to realise cost savings, reducing the cost of doing business through improved resource management and planning for order scheduling.
+Our solution will help Sendy improve customer communication and the reliability of its service. In addition, the solution will allow Sendy to realise cost savings by reducing the cost of doing business through improved resource management and planning for order scheduling.
 
 ## Approach
 - Exploratory Data Analysis
@@ -19,7 +19,7 @@ The solution will help Sendy improve customer communication and the reliability 
 - Submission
 
 ## Project Status 
-**Currently ranked 21/64 on the public Zindi leaderboard**
+**Currently ranked 29/74 on the public Zindi leaderboard**
 
 Link to project Trello board: https://trello.com/invite/b/Jvt3ICOf/6936f63598f23bdfa917f7bf23176ceb/regression-predict
 
